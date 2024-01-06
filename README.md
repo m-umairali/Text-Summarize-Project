@@ -1,2 +1,2 @@
 # Text-Summarize-Project
-This project summarize the long text
+This project summarize the long text.
